@@ -12,3 +12,14 @@
 * 실행환경 오픈소스 버전 업그레이드 (Spring Data JPA 1.11.23 -> 2.2.3)
 * 실행환경 오픈소스 버전 업그레이드 (Spring Batch 3.0.10 -> 4.2.2)
 
+## Getting Help
+
+## Reporting Issues
+
+## Release
+
+## Roadmap
+
+## Community
+
+## License
