@@ -1,5 +1,5 @@
 # 표준프레임워크 실행환경 
-[![Build Status](https://travis-ci.com/openlenalab/egovframe-runtime.svg?branch=ci-setting)](https://travis-ci.com/openlenalab/egovframe-runtime) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=openlenalab_egovframe-runtime)](https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime)
+[![Build Status](https://travis-ci.com/openlenalab/egovframe-runtime.svg?branch=ci-setting)](https://travis-ci.com/openlenalab/egovframe-runtime) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=alert_status)](https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=coverage)](https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime)
 
 
 ## Release Notes
