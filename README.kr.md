@@ -12,69 +12,59 @@
 [![Coverage][coverage-shield]][coverage-url]
 
 <!-- ABOUT THE PROJECT -->
-# 전자정부 표준프레임워크 실행환경
+# 표준프레임워크 실행환경
 
-eGovernment Standard Framework - Runtime Environment
+전자정부 표준프레임워크 - 실행환경
 
 ## 프로젝트 설명
 
-Common modules necessary for the execution of business logic programs in eGovernment project. Application programming environment to facilitate the standardized development of screens, server programs and data.
+표준프레임워크 실행환경은 응용SW의 구성기반이 되며 응용SW실행 시 필요한 기본 기능을 제공하는 환경을 의미한다. 즉 전자정부 업무 구현을 목적으로 개발된 프로그램이 사용자가 의도하는 대로 정상적으로 실행될 수 있도록 지원하는 재사용 가능한 서버 실행 모듈, SW구조의 집합을 의미 한다.
 
 <!-- GETTING STARTED -->
 ## 시작하기
 
-eGovFrame Runtime uses the Maven framework. 
+표준프레임워크 실행환경은 메이븐(Maven)을 빌드 도구로 사용하고 있습니다.
 
-### Prerequisites
+### 사용 환경
 
-* Maven, version 3+
+* Maven 3+
 * Java JDK 1.7+
 
 ### 빌드하기
 
-#### Building it
+#### 컴파일
 
-This is a Maven project, and to build it use the following command:
+메이븐 프로젝트로 구성되어 있으면 빌드하려면 다음 명령을 사용합니다
 
 ```
 $ mvn clean install
 ```
 
-Optionally you can specify -Dmaven.test.skip=true to skip the tests (even though you shouldn't as you know)
+#### 패키징
 
-The build result will be a eGovFrame Runtime package located in ```target```.
-
-#### Packaging / Distributing it
-
-Packages can be built by using the following command:
+다음 명령을 사용하여 패키징 작업을 수행할 수 있습니다. 
 
 ```
 $ mvn clean package
 ```
 
-The packaged results will be in the `target/` 
+#### 테스트
 
-#### Running the tests
+__단위 테스트__
 
-__Unit tests__
-
-This will run all unit tests in the project (and sub-modules). To run integration tests as well, see Integration Tests below.
+다음 명령을 사용하면 프로젝트의 단위 테스트를 수행할 수 있습니다.
 
 ```
 $ mvn test
 ```
 
-<!-- USAGE EXAMPLES -->
 ### 사용하기
 
-eGovFrame Runtime can be downloaded using maven through the following settings in pom.xml file.
+표준프레임워크 실행환경은 pom.xml에 다음 설정을 추가하여 사용할 수 있습니다. 
 
-#### Using dependency definitions. 
+#### 실행환경 의존성 추가
 
-Define parent project in pom file
-
-After adding above, add the following dependency definitions. 
-(Only the required ones.)
+필수 항목은 반드시 추가해야 표준프레임워크 호환성을 유지할 수 있습니다. 
 
 ``` xml
 
@@ -138,8 +128,6 @@ After adding above, add the following dependency definitions.
 <!-- CONTRIBUTING -->
 ## 기여하기
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b eGovFramework/egovframe-runtime`)
 3. Commit your Changes (`git commit -m 'Add some egovframe-runtime'`)
@@ -148,23 +136,13 @@ Contributions are what make the open source community such an amazing place to b
 
 ## 도움말
 
-Please go to https://www.egovframe.go.kr/home/sub.do?menuNo=69 to ask questions and get help.
+표준프레임워크 묻고답하기 : https://www.egovframe.go.kr/home/sub.do?menuNo=69
 
-```
-command to run if program contains helper info
-```
-
-<!-- LICENSE -->
 ## 라이선스
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-The eGovFrame Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+표준프레임워크 실행환경은 [Apache License](https://www.apache.org/licenses/LICENSE-2.0) 2.0에 따라 릴리스됩니다.
 
 ## 연락처
-
-Contributors names and contact info
-
-ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://github.com/eGovFramework/egovframe-runtime)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [language-kr-shield]: https://img.shields.io/badge/language-Korean-blue.svg?style=flat-square
