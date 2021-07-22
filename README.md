@@ -170,18 +170,18 @@ ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://g
 [language-kr-shield]: https://img.shields.io/badge/language-Korean-blue.svg?style=flat-square
 [language-en-shield]: https://img.shields.io/badge/language-English-red.svg?style=flat-square
 
-[contributors-shield]: https://img.shields.io/github/contributors/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/eGovFramework/egovframe-runtime.svg?style=flat-square
 [contributors-url]: https://github.com/eGovFramework/egovframe-runtime/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/eGovFramework/egovframe-runtime.svg?style=flat-square
 [forks-url]: https://github.com/eGovFramework/egovframe-runtime/network/members
-[stars-shield]: https://img.shields.io/github/stars/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/eGovFramework/egovframe-runtime.svg?style=flat-square
 [stars-url]: https://github.com/eGovFramework/egovframe-runtime/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/eGovFramework/egovframe-runtime.svg?style=flat-square
 [issues-url]: https://github.com/eGovFramework/egovframe-runtime/issues
-[license-shield]: https://img.shields.io/github/license/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/eGovFramework/egovframe-runtime.svg?style=flat-square
 [license-url]: https://github.com/eGovFramework/egovframe-runtime/blob/master/LICENSE.txt
 
-[build-status-shield]: https://shields.io/travis/openlenalab/egovframe-runtime?style=for-the-badge
+[build-status-shield]: https://shields.io/travis/openlenalab/egovframe-runtime?style=flat-square
 [build-status-url]: https://travis-ci.com/openlenalab/egovframe-runtime
 [quality-gate-status-shield]: https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=alert_status
 [quality-gate-status-url]: https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime
