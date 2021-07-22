@@ -37,6 +37,7 @@ import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.net.UnknownHostException;
+import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
 import java.util.Random;
 import java.util.StringTokenizer;
@@ -191,7 +192,7 @@ public class EgovUUIdGnrServiceImpl implements EgovIdGnrService, ApplicationCont
      * @param address Config 에 지정된 address 정보
      * @throws FdlException IP 정보가 이상한 경우
      */
-    public void setAddress(String address) throws FdlException {
+    public void setAddress(String address) throws FdlException, NoSuchAlgorithmException {
         byte[] addressBytes = new byte[6];
         random = SecureRandom.getInstanceStrong();
 //        Random random = new Random();
