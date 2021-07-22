@@ -170,16 +170,16 @@ ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://g
 [language-kr-shield]: https://img.shields.io/badge/language-Korean-blue.svg?style=for-the-badge
 [language-en-shield]: https://img.shields.io/badge/language-English-red.svg?style=for-the-badge
 
-[contributors-shield]: https://img.shields.io/github/contributors/openlenalab/egovframe-runtime.svg?style=for-the-badge
-[contributors-url]: https://github.com/openlenalab/egovframe-runtime/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/openlenalab/egovframe-runtime.svg?style=for-the-badge
-[forks-url]: https://github.com/openlenalab/egovframe-runtime/network/members
-[stars-shield]: https://img.shields.io/github/stars/openlenalab/egovframe-runtime.svg?style=for-the-badge
-[stars-url]: https://github.com/openlenalab/egovframe-runtime/stargazers
-[issues-shield]: https://img.shields.io/github/issues/openlenalab/egovframe-runtime.svg?style=for-the-badge
-[issues-url]: https://github.com/openlenalab/egovframe-runtime/issues
-[license-shield]: https://img.shields.io/github/license/openlenalab/egovframe-runtime.svg?style=for-the-badge
-[license-url]: https://github.com/openlenalab/egovframe-runtime/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[contributors-url]: https://github.com/eGovFramework/egovframe-runtime/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[forks-url]: https://github.com/eGovFramework/egovframe-runtime/network/members
+[stars-shield]: https://img.shields.io/github/stars/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[stars-url]: https://github.com/eGovFramework/egovframe-runtime/stargazers
+[issues-shield]: https://img.shields.io/github/issues/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[issues-url]: https://github.com/eGovFramework/egovframe-runtime/issues
+[license-shield]: https://img.shields.io/github/license/eGovFramework/egovframe-runtime.svg?style=for-the-badge
+[license-url]: https://github.com/eGovFramework/egovframe-runtime/blob/master/LICENSE.txt
 
 [build-status-shield]: https://travis-ci.com/openlenalab/egovframe-runtime.svg?style=for-the-badge
 [build-status-url]: https://travis-ci.com/openlenalab/egovframe-runtime
