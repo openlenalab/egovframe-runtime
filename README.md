@@ -167,8 +167,8 @@ Contributors names and contact info
 ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://github.com/eGovFramework/egovframe-runtime)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[language-kr-shield]: https://img.shields.io/badge/language-Korean-blue.svg?style=for-the-badge
-[language-en-shield]: https://img.shields.io/badge/language-English-red.svg?style=for-the-badge
+[language-kr-shield]: https://img.shields.io/badge/language-Korean-blue.svg?style=flat-square
+[language-en-shield]: https://img.shields.io/badge/language-English-red.svg?style=flat-square
 
 [contributors-shield]: https://img.shields.io/github/contributors/eGovFramework/egovframe-runtime.svg?style=for-the-badge
 [contributors-url]: https://github.com/eGovFramework/egovframe-runtime/graphs/contributors
@@ -181,7 +181,7 @@ ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://g
 [license-shield]: https://img.shields.io/github/license/eGovFramework/egovframe-runtime.svg?style=for-the-badge
 [license-url]: https://github.com/eGovFramework/egovframe-runtime/blob/master/LICENSE.txt
 
-[build-status-shield]: https://travis-ci.com/openlenalab/egovframe-runtime.svg?style=for-the-badge
+[build-status-shield]: https://shields.io/travis/openlenalab/egovframe-runtime?style=for-the-badge
 [build-status-url]: https://travis-ci.com/openlenalab/egovframe-runtime
 [quality-gate-status-shield]: https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=alert_status
 [quality-gate-status-url]: https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime
