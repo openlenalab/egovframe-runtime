@@ -12,16 +12,16 @@
 [![Coverage][coverage-shield]][coverage-url]
 
 <!-- ABOUT THE PROJECT -->
-# eGovFrame Runtime
+# 전자정부 표준프레임워크 실행환경
 
 eGovernment Standard Framework - Runtime Environment
 
-## Description
+## 프로젝트 설명
 
 Common modules necessary for the execution of business logic programs in eGovernment project. Application programming environment to facilitate the standardized development of screens, server programs and data.
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 시작하기
 
 eGovFrame Runtime uses the Maven framework. 
 
@@ -30,7 +30,7 @@ eGovFrame Runtime uses the Maven framework.
 * Maven, version 3+
 * Java JDK 1.7+
 
-### How to build
+### 빌드하기
 
 #### Building it
 
@@ -65,7 +65,7 @@ $ mvn test
 ```
 
 <!-- USAGE EXAMPLES -->
-### Usage
+### 사용하기
 
 eGovFrame Runtime can be downloaded using maven through the following settings in pom.xml file.
 
@@ -127,7 +127,7 @@ After adding above, add the following dependency definitions.
 
 ```
 
-## Version History
+## 버전 이력
 
 * 4.0.0 beta
     * Various bug fixes and optimizations
@@ -136,7 +136,7 @@ After adding above, add the following dependency definitions.
     * Initial Release
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 기여하기
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -146,7 +146,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin eGovFramework/egovframe-runtime`)
 5. Open a Pull Request
 
-## Asking for help
+## 도움말
 
 Please go to https://www.egovframe.go.kr/home/sub.do?menuNo=69 to ask questions and get help.
 
@@ -155,12 +155,12 @@ command to run if program contains helper info
 ```
 
 <!-- LICENSE -->
-## License
+## 라이선스
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 The eGovFrame Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
-## Contact
+## 연락처
 
 Contributors names and contact info
 
