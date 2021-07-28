@@ -58,7 +58,7 @@ The packaged results will be in the `target/`
 
 __Unit tests__
 
-This will run all unit tests in the project (and sub-modules). To run integration tests as well, see Integration Tests below.
+This will run all unit tests in the project (and sub-modules). 
 
 ```
 $ mvn test
@@ -70,8 +70,6 @@ $ mvn test
 eGovFrame Runtime can be downloaded using maven through the following settings in pom.xml file.
 
 #### Using dependency definitions. 
-
-Define parent project in pom file
 
 After adding above, add the following dependency definitions. 
 (Only the required ones.)
@@ -150,14 +148,9 @@ Contributions are what make the open source community such an amazing place to b
 
 Please go to https://www.egovframe.go.kr/home/sub.do?menuNo=69 to ask questions and get help.
 
-```
-command to run if program contains helper info
-```
-
 <!-- LICENSE -->
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 The eGovFrame Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Contact
