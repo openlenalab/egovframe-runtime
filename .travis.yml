@@ -15,7 +15,7 @@ cache:
 notifications:
   email:
     recipients:
-      - your@Email.com
+      - songyeon0058@gmail.com
 
 addons:
   sonarcloud:
