@@ -1,0 +1,19 @@
+package org.egovframe.rte.psl.dataaccess.utils;
+
+import static org.junit.Assert.*;
+
+import org.egovframe.rte.psl.dataaccess.util.CamelUtil;
+import org.junit.Test;
+
+public class CamelUtilTest {
+
+	@Test
+	public void testConvert2CamelCase() {
+		String camelString = "camelString";
+		String notCamelString = "not_camelString";
+		
+		assertEquals(camelString,CamelUtil.convert2CamelCase(camelString));
+		assertEquals(notCamelString,CamelUtil.convert2CamelCase(camelString));
+	}
+
+}
