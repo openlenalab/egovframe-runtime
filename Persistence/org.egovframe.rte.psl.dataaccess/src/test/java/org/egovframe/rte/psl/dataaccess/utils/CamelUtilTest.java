@@ -11,9 +11,11 @@ public class CamelUtilTest {
 	public void testConvert2CamelCase() {
 		String camelString = "camelString";
 		String notCamelString = "not_camelString";
+		String upperCaseString = "Uppercase";
 		
 		assertEquals(camelString,CamelUtil.convert2CamelCase(camelString));
 		assertEquals(notCamelString,CamelUtil.convert2CamelCase(camelString));
+		assertEquals("uppercase",CamelUtil.convert2CamelCase(upperCaseString));
 	}
 
 }
