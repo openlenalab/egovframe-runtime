@@ -14,7 +14,7 @@ public class CamelUtilTest {
 		String upperCaseString = "Uppercase";
 		
 		assertEquals(camelString,CamelUtil.convert2CamelCase(camelString));
-		assertEquals(notCamelString,CamelUtil.convert2CamelCase(camelString));
+		assertEquals("notCamelstring",CamelUtil.convert2CamelCase(notCamelString));
 		assertEquals("uppercase",CamelUtil.convert2CamelCase(upperCaseString));
 	}
 
