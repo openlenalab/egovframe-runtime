@@ -175,7 +175,7 @@ ex. Project Link: [https://github.com/eGovFramework/egovframe-runtime](https://g
 [license-url]: https://github.com/eGovFramework/egovframe-runtime/blob/master/LICENSE.txt
 
 [build-status-shield]: https://shields.io/travis/openlenalab/egovframe-runtime?style=flat-square
-[build-status-url]: https://travis-ci.com/openlenalab/egovframe-runtime
+[build-status-url]: https://app.travis-ci.com/openlenalab/egovframe-runtime
 [quality-gate-status-shield]: https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=alert_status
 [quality-gate-status-url]: https://sonarcloud.io/dashboard?id=openlenalab_egovframe-runtime
 [coverage-shield]: https://sonarcloud.io/api/project_badges/measure?project=openlenalab_egovframe-runtime&metric=coverage
